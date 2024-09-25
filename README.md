@@ -3,7 +3,7 @@
 
 <p>
 <h5>Task 1: Variables and Operators Output</h5>
-<br> Name: Paul Justin O. Mercado
+Name: Paul Justin O. Mercado
 <br> Age: 20
 <br> City: Iba, Zambales
 <br> Year Born: 2004
@@ -11,14 +11,14 @@
 <br> Age Remainder when divided by 5: 0
 
 <h5>Task 2: String Manipulation Output</h5>
-<br> Introduction: I'm Paul Justin O. Mercado from Iba, Zambales
+Introduction: I'm Paul Justin O. Mercado from Iba, Zambales
 <br> Uppercase Example: I'M PAUL JUSTIN O. MERCADO FROM IBA, ZAMBALES
 <br> The index of the first occurrence of 'a' is: 5
 <br> Original String: I am learning JavaScript at School.
 <br> Modified String: I am learning JS at School.
 
 <h5>Task 3: Array Manipulation Output</h5>
-<br> Original Favorite Foods Array: (5) ['Jollibee C1 Spicy', 'Tofu Sisig', 'Cream Puff', 'Pasta', 'Ice Cream']
+Original Favorite Foods Array: (5) ['Jollibee C1 Spicy', 'Tofu Sisig', 'Cream Puff', 'Pasta', 'Ice Cream']
 <br> Modified Favorite Foods Array: (5) ['Chicken Adobo', 'Cream Puff', 'Ice Cream', 'Jollibee C1 Spicy', 'Pasta']
 <br> Printing Favorite Foods:
 <br> Chicken Adobo
